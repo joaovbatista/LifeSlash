@@ -1,0 +1,4 @@
+07/10: 
+-Ainda precisa ajustar a função de segurar para diminuir ou aumentar
+-Precisa deixar a imagem da coroa mais vizível, deixar ela menos opaca para ser mais fácil de identificar
+-Ainda não esta escurecendo a tela quando um jogador "morre" (chega a 0 ou menos de vida)
